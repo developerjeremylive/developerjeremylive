@@ -1,6 +1,8 @@
 # Hi, I'm Jeremy 👋
 
-📍 **AI Developer | Creative Tech Innovator**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Computer+Engineer;GenAI+Software+Engineer;Senior+Computer+Engineer;AI+%26+Agent+Systems+Architect" alt="Typing SVG" />
+</p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,7 +30,8 @@ I blend creativity with AI to build next-generation digital experiences. My appr
 
 - **[Etheroi MAaaS Platform](https://etheroi.com)** — Scalable Multi-Agent-as-a-Service platform using Cloudflare serverless. Real-time WebSocket communication, Durable Objects, and LLM orchestration with cost optimization.
 - **[AI Chat Assistant](https://chat.etheroi.com)** — Advanced AI chat platform with autonomous agents powered by multiple AI models and LangChain integration.
-- **[Multi-Agent & Translation Systems](https://agent.etheroi.com)** — AI agent chat interface and live translation studio with high-fidelity voice support via Cloudflare Workers AI.
+- **[AI Agent Chat](https://agent.etheroi.com)** — Conversational AI assistant with autonomous agent capabilities, supporting multiple AI models for intelligent interactions.
+- **[Live AI Translate](https://liveaitranslate.etheroi.com/)** — Real-time translation studio with high-fidelity voice support powered by Cloudflare Workers AI.
 
 ## Professional Career
 
