@@ -20,22 +20,9 @@
 
 As a **Computer Engineer** with **8+ years of experience**, I have successfully delivered **50+ projects** across diverse industries including **fintech**, **enterprise logistics**, **business data analytics**, **AI solutions**, **healthcare**, and **cross-platform applications**. My expertise spans the full software development lifecycle, from architecting scalable systems to implementing cutting-edge AI integrations. I excel in transforming complex business requirements into efficient, innovative solutions that drive measurable impact.
 
-<div align="center">
-  <div style="background: linear-gradient(45deg, #4A90E2, #50C878); padding: 15px; border-radius: 15px; color: white; font-weight: bold; font-size: 18px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); animation: fadeIn 2s ease-in-out;">
-    <span style="animation: slideRight 8s infinite linear;">🚀 Fintech | 📦 Enterprise Logistics | 📊 Business Data Analytics | 🤖 AI Solutions | 🏥 Healthcare | 📱 Cross-Platform Applications 🚀</span>
-  </div>
-  <style>
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(-20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes slideRight {
-      0% { transform: translateX(-100%); }
-      50% { transform: translateX(0%); }
-      100% { transform: translateX(100%); }
-    }
-  </style>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=🚀+Expertise+Areas:+Fintech;📦+Enterprise+Logistics;📊+Business+Data+Analytics;🤖+AI+Solutions;🏥+Healthcare;📱+Cross-Platform+Applications" alt="Typing SVG" />
+</p>
 
 ## AI-Powered Creative Workflow
 
@@ -54,21 +41,9 @@ I blend creativity with AI to build next-generation digital experiences. My appr
 - **[AI Agent Chat](https://agent.etheroi.com)** — Conversational AI assistant with autonomous agent capabilities, supporting multiple AI models for intelligent interactions.
 - **[Live AI Translate](https://liveaitranslate.etheroi.com/)** — Real-time translation studio with high-fidelity voice support powered by Cloudflare Workers AI.
 
-<div align="center">
-  <div style="background: linear-gradient(135deg, #0a0a0a, #1a1a2e); padding: 20px; border-radius: 20px; color: #00d4ff; font-weight: bold; font-size: 16px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5), inset 0 0 20px rgba(0, 212, 255, 0.1); border: 2px solid #00d4ff; animation: glow 2s ease-in-out infinite alternate;">
-    <span style="animation: neon 3s infinite;">⚡ Top Technologies: Cloudflare Workers | React | Gemini AI | LangChain | Durable Objects | Real-time WebSocket ⚡</span>
-  </div>
-  <style>
-    @keyframes glow {
-      from { box-shadow: 0 0 20px rgba(0, 212, 255, 0.5), inset 0 0 20px rgba(0, 212, 255, 0.1); }
-      to { box-shadow: 0 0 30px rgba(0, 212, 255, 0.8), inset 0 0 30px rgba(0, 212, 255, 0.2); }
-    }
-    @keyframes neon {
-      0%, 100% { text-shadow: 0 0 5px #00d4ff, 0 0 10px #00d4ff, 0 0 15px #00d4ff; }
-      50% { text-shadow: 0 0 10px #00d4ff, 0 0 20px #00d4ff, 0 0 30px #00d4ff; }
-    }
-  </style>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=700&lines=⚡+Top+Technologies+in+Projects;Cloudflare+Workers+|+React+|+Gemini+AI;LangChain+|+Durable+Objects+|+Real-time+WebSocket" alt="Typing SVG" />
+</p>
 
 ## Professional Career
 
@@ -195,27 +170,11 @@ Since **2015**, I have been actively programming and developing software solutio
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-developerjeremylive-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/developerjeremylive)
 [![Beacons](https://img.shields.io/badge/Social-beacons.ai/jeremylive-FF6B6B?style=flat-square&logo=linktree&logoColor=white)](https://beacons.ai/jeremylive)
 
-<div align="center">
-  <a href="https://etheroi.com" style="text-decoration: none;">
-    <div style="background: radial-gradient(circle, #ff6b6b, #4ecdc4); padding: 25px; border-radius: 50px; color: white; font-weight: bold; font-size: 20px; box-shadow: 0 0 30px rgba(255, 107, 107, 0.6), inset 0 0 30px rgba(78, 205, 196, 0.3); border: 3px solid #fff; animation: bounce 3s infinite; transform: perspective(500px) rotateX(15deg); margin: 20px 0;">
-      <span style="animation: rainbow 4s infinite;">🚀 Explore My Main AI Project: Etheroi 🚀</span>
-    </div>
+<p align="center">
+  <a href="https://etheroi.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f9ca24&center=true&vCenter=true&width=500&lines=🚀+My+Main+AI+Project;Explore+Etheroi:+6+GenAI+Apps;300%2B+MLLMs+|+Multi-Agent+AI;Click+Here+to+Discover+🚀" alt="Typing SVG" />
   </a>
-  <style>
-    @keyframes bounce {
-      0%, 20%, 50%, 80%, 100% { transform: perspective(500px) rotateX(15deg) translateY(0); }
-      40% { transform: perspective(500px) rotateX(15deg) translateY(-10px); }
-      60% { transform: perspective(500px) rotateX(15deg) translateY(-5px); }
-    }
-    @keyframes rainbow {
-      0% { color: #ff6b6b; }
-      25% { color: #4ecdc4; }
-      50% { color: #45b7d1; }
-      75% { color: #f9ca24; }
-      100% { color: #ff6b6b; }
-    }
-  </style>
-</div>
+</p>
 
 <details>
 <summary>Creative Facts</summary>
