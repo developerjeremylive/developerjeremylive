@@ -1,4 +1,4 @@
-# Hi, I'm Jeremy 👋
+# Hi, I'm Jeremy Live 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Computer+Engineer;GenAI+Software+Engineer;Senior+Computer+Engineer;AI+%26+Agent+Systems+Architect" alt="Typing SVG" />
