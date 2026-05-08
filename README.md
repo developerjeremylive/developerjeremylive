@@ -1,128 +1,97 @@
+# Hi, I'm Jeremy 👋
 
-  ---
-  # 👋 Hola, soy Jeremy | Creative Developer 🚀
+📍 **AI Developer | Creative Tech Innovator**
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font
-  =Fira+Code&pause=1000&color=4A90E2&center=true&vCenter
-  =true&width=435&lines=Especialista+en+Experiencias+3D;
-  Entusiasta+de+Three.js;Experto+en+Animaciones+SVG;Tran
-  sformando+código+en+arte+visual" alt="Typing SVG" />
-  </p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-  ---
+> Creative developer and AI innovator specializing in **Generative AI applications, multi-agent systems, and immersive 3D experiences**. Transforming creative coding into intelligent systems with over 300+ ML models and 6+ GenAI apps.
 
-  ### 🎨 Sobre mí
-  Soy un desarrollador apasionado por la intersección
-  entre el **diseño visual** y el **desarrollo
-  frontend**. Mi objetivo es romper la monotonía de la
-  web creando componentes interactivos que cautiven al
-  usuario.
+## AI-Powered Creative Workflow
 
-  Me especializo en crear mundos digitales utilizando
-  **Three.js** y optimizando la narrativa visual
-  mediante **animaciones SVG** fluidas y ligeras.
+I blend creativity with AI to build next-generation digital experiences. My approach focuses on agentic systems, multimodal AI, and scalable architectures for creative applications.
 
-  - 🛠️ **Enfoque actual:** Creando componentes creativos
-   y experiencias inmersivas.
-  - 🚀 **Meta:** Llevar la interactividad web al
-  siguiente nivel con WebGL.
-  - ⚡ **Filosofía:** "Si puede imaginarse, se puede
-  programar".
+- **LLMs & Models:** Expertise in 300+ ML models across multiple platforms
+- **GenAI Apps:** Developed 6+ production-ready AI applications
+- **Multi-Agent Systems:** Building collaborative AI assistants with MCP/Skills integration
+- **Creative Tech:** Three.js worlds, SVG animations, and interactive visualizations
+- **Infrastructure:** Kubernetes orchestration for AI workloads and scalable deployments
 
-  ---
+## Featured Projects
 
-  ### 🛠️ Mi Stack Creativo
+- **[Etheroi](https://etheroi.com)** — Personal AI Platform. +6 GenAI Apps, +300 MLLM, Multi-Agentic AI Assistant, MCP/Skills integration.
+- **[3D Interactive Worlds](https://jeremylive.netlify.app)** — Immersive Three.js experiences with dynamic lighting and AI-enhanced interactions.
+- **[SVG Morphing Systems](https://jeremylive.netlify.app)** — Fluid SVG animations powered by GSAP and generative algorithms.
+- **[Particle AI Systems](https://jeremylive.netlify.app)** — Interactive particle systems with mouse-driven AI behaviors.
 
-  <div align="center">
-    <!-- Three.js / WebGL -->
-    <img src="https://img.shields.io/badge/Three.js-0000
-  00?style=for-the-badge&logo=three.js&logoColor=white"
-  />
-    <img src="https://img.shields.io/badge/WebGL-B91248?
-  style=for-the-badge&logo=webgl&logoColor=white" />
-    <img src="https://img.shields.io/badge/GSAP-88CE02?s
-  tyle=for-the-badge&logo=greensock&logoColor=white" />
-    <br>
-    <!-- SVG / Animation -->
-    <img src="https://img.shields.io/badge/SVG-FF6F00?st
-  yle=for-the-badge&logo=svg&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?s
-  tyle=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?
-  style=for-the-badge&logo=react&logoColor=black" />
-  </div>
+## Experience & Focus
 
-  ---
+**AI & Creative Development (Current)**
+- Building generative AI applications for creative industries
+- Developing multi-agent systems for collaborative workflows
+- Creating AI-enhanced 3D and interactive experiences
+- Scaling AI infrastructure with Kubernetes and cloud platforms
 
-  ### 🌟 Componentes Destacados
+**Creative Development Background**
+- Specialized in Three.js and WebGL for immersive experiences
+- Expert in SVG animations and fluid motion design
+- Transforming visual concepts into interactive digital art
+- Pushing boundaries of web interactivity with AI integration
 
-  | Proyecto | Tecnología | Descripción | Vista Previa |
-  | :--- | :---: | :--- | :---: |
-  | **3D Interactive World** | Three.js | Un entorno
-  inmersivo con iluminación dinámica. | [🔗
-  Demo](https://github.com/developerjeremylive) |
-  | **SVG Morphing Shapes** | SVG + GSAP | Animaciones
-  de transición orgánica entre formas. | [🔗
-  Demo](https://github.com/developerjeremylive) |
-  | **Particle System** | Three.js | Sistema de
-  partículas interactivo basado en el mouse. | [🔗
-  Demo](https://github.com/developerjeremylive) |
+<details>
+<summary>Technical Skills & Stack</summary>
 
-  > **Tip:** Puedes reemplazar los enlaces anteriores
-  por tus proyectos reales y añadir GIFs de tus
-  animaciones para que el perfil sea mucho más visual.
+### Core Technologies
 
-  ---
+**AI & ML:** Python, HuggingFace Transformers, OpenAI API, LangChain, Multi-Agent Frameworks
 
-  ### 📊 Mis Estadísticas
+**Frontend:** React, Three.js, WebGL, SVG, GSAP, CSS3
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api
-  ?username=developerjeremylive&show_icons=true&theme=to
-  kyonight" alt="Stats de GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api
-  /top-langs/?username=developerjeremylive&layout=compac
-  t&theme=tokyonight" alt="Lenguajes más usados" />
-  </p>
+**Backend:** Node.js, TypeScript, Docker, Kubernetes
 
-  ---
+**Creative Tools:** Blender, After Effects, Generative Art Libraries
 
-  ### 📫 Conéctate conmigo
+**Cloud & Infra:** AWS, GCP, Docker, Kubernetes, CI/CD pipelines
 
-  <p align="left">
-    <a href="https://linkedin.com/in/TU_USUARIO"
-  target="blank"><img
-  src="https://img.shields.io/badge/LinkedIn-0077B5?styl
-  e=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:TU_EMAIL@gmail.com"
-  target="blank"><img
-  src="https://img.shields.io/badge/Email-D14836?style=f
-  or-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://twitter.com/TU_USUARIO"
-  target="blank"><img
-  src="https://img.shields.io/badge/Twitter-1DA1F2?style
-  =for-the-badge&logo=twitter&logoColor=white" /></a>
-  </p>
+### Development Philosophy
 
-  <p align="center">
-    <i>"Coding the future, one vertex at a time."</i> ✨
-  </p>
+**Agentic AI First:** Leveraging AI assistants for faster development cycles
 
-  ---
-  💡 Recomendaciones adicionales para tu perfil:
+**Creative + Technical:** Merging artistic vision with engineering excellence
 
-  1. Añade GIFs: Como Three.js es visual, un README con
-  solo texto no hace justicia. Graba pequeños clips (de
-  5-10 segundos) de tus animaciones, conviértelos a GIF
-  o MP4 y súbelos a tu repo. Luego úsalos así:
-  ![Demo de Three.js](ruta/al/gif.gif)
-  2. SVG Animados: Puedes crear archivos .svg con
-  animaciones CSS internas y subirlos a un repositorio o
-   hosting. Luego, puedes llamarlos en el README usando
-  una etiqueta <img> para que la animación se reproduzca
-   automáticamente.
-  3. Portafolio: Si tienes un sitio web donde tengas el
-  "Laboratorio" de tus componentes creativos, ponlo en
-  la parte superior del README. ¡Es lo que más valoran
-  los reclutadores en perfiles creativos!
+**Scalable Systems:** Building for performance and user experience at scale
+
+</details>
+
+---
+
+### Vision
+
+> "If you can imagine it, AI can build it."  
+> Transforming creative ideas into intelligent, interactive realities.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy%20Live-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-live/)
+[![Website](https://img.shields.io/badge/Website-jeremylive.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://jeremylive.netlify.app)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-developerjeremylive-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/developerjeremylive)
+[![Beacons](https://img.shields.io/badge/Social-beacons.ai/jeremylive-FF6B6B?style=flat-square&logo=linktree&logoColor=white)](https://beacons.ai/jeremylive)
+
+<details>
+<summary>Creative Facts</summary>
+
+- Building AI that creates art
+- Exploring the intersection of code and creativity
+- Pushing the boundaries of interactive experiences
+
+</details></content>
+<parameter name="filePath">J:\AI_Products\developerjeremylive\README.md
