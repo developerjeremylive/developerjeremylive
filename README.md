@@ -170,6 +170,8 @@ Since **2015**, I have been actively programming and developing software solutio
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-developerjeremylive-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/developerjeremylive)
 [![Beacons](https://img.shields.io/badge/Social-beacons.ai/jeremylive-FF6B6B?style=flat-square&logo=linktree&logoColor=white)](https://beacons.ai/jeremylive)
 
+[![Etheroi](https://img.shields.io/badge/Etheroi-etheroi.com-6B73FF?style=flat-square&logo=robot&logoColor=white)](https://etheroi.com)
+
 <p align="center">
   <a href="https://etheroi.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f9ca24&center=true&vCenter=true&width=500&lines=My+Main+AI+Project;Explore+Etheroi:+6+GenAI+Apps;300%2B+MLLMs+|+Multi-Agent+AI;Click+Here+to+Discover" alt="Typing SVG" />
