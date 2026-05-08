@@ -26,24 +26,89 @@ I blend creativity with AI to build next-generation digital experiences. My appr
 
 ## Featured Projects
 
-- **[Etheroi](https://etheroi.com)** — Personal AI Platform. +6 GenAI Apps, +300 MLLM, Multi-Agentic AI Assistant, MCP/Skills integration.
-- **[3D Interactive Worlds](https://jeremylive.netlify.app)** — Immersive Three.js experiences with dynamic lighting and AI-enhanced interactions.
-- **[SVG Morphing Systems](https://jeremylive.netlify.app)** — Fluid SVG animations powered by GSAP and generative algorithms.
-- **[Particle AI Systems](https://jeremylive.netlify.app)** — Interactive particle systems with mouse-driven AI behaviors.
+- **[Etheroi MAaaS Platform](https://etheroi.com)** — Scalable Multi-Agent-as-a-Service platform using Cloudflare serverless. Real-time WebSocket communication, Durable Objects, and LLM orchestration with cost optimization.
+- **[AI Chat Assistant](https://chat.etheroi.com)** — Advanced AI chat platform with autonomous agents powered by multiple AI models and LangChain integration.
+- **[Multi-Agent & Translation Systems](https://agent.etheroi.com)** — AI agent chat interface and live translation studio with high-fidelity voice support via Cloudflare Workers AI.
 
-## Experience & Focus
+## Professional Career
 
-**AI & Creative Development (Current)**
-- Building generative AI applications for creative industries
-- Developing multi-agent systems for collaborative workflows
-- Creating AI-enhanced 3D and interactive experiences
-- Scaling AI infrastructure with Kubernetes and cloud platforms
+### Python GenAI Software Engineer & Deep Agents Integration
+**EtherOI | Costa Rica**  
+*Jun 2025 - Jan 2026*
 
-**Creative Development Background**
-- Specialized in Three.js and WebGL for immersive experiences
-- Expert in SVG animations and fluid motion design
-- Transforming visual concepts into interactive digital art
-- Pushing boundaries of web interactivity with AI integration
+Development of Multi-Agent-as-a-Service (MAaaS) platform using Cloudflare Workers and Durable Objects. Integration of LLMs via MCP with cost optimization, real-time WebSocket communication, and scalable agent orchestration.
+- Led the architecture and implementation of a serverless MAaaS platform handling multiple concurrent AI agents
+- Integrated 300+ ML models across various providers with optimized API costs and performance
+- Developed MCP (Model Context Protocol) integrations for seamless agent communication
+- Built real-time communication systems using Durable Objects for persistent state management
+- Implemented advanced RAG (Retrieval-Augmented Generation) systems for context-aware AI responses
+
+*Technologies: Python, LangChain, RAG, TensorFlow, PyTorch, React, TypeScript, Cloudflare Workers*
+
+### Python Senior Software Engineer & Voice Agent Integration
+**Cobros CR | Costa Rica**  
+*Aug 2024 - Jan 2026*
+
+Development of 3 financial sector applications. AI integration with Gemini and Voice Agent for database communication using Cloudflare D1.
+- Designed and built 3 production applications for financial services with AI-powered features
+- Integrated Gemini AI for intelligent data processing and automated decision-making
+- Developed voice agent systems for natural language database queries and interactions
+- Implemented Cloudflare D1 database integrations for real-time data access
+- Created conversational AI interfaces for financial operations and customer service
+
+*Technologies: Python, Laravel, MySQL, Docker, Gemini AI, Voice Agents, Cloudflare D1*
+
+### Python Senior Cloud Engineer
+**Ollin CR | Costa Rica**  
+*Aug 2024 - Jun 2025*
+
+Administrative web application in React/TypeScript for logistics platform with Firebase. Integration of Google Maps, role-based authentication, and real-time tracking.
+- Built comprehensive logistics management platform with real-time tracking capabilities
+- Implemented role-based authentication and authorization systems
+- Integrated Google Maps API for route optimization and location services
+- Developed real-time dashboards for fleet management and delivery tracking
+- Created scalable backend services using Flask and Firebase infrastructure
+
+*Technologies: GCP, Firebase, React, TypeScript, Flask, Google Maps API*
+
+### .Net Technical Lead & Software Architect
+**Lievant | Costa Rica**  
+*Jan 2024 - Jul 2024*
+
+Development of RESTful web services and microservices for healthcare sector. Full-stack quotation system for insurance products using C#/.NET 8/ASP.NET Core.
+- Architected and led development of healthcare microservices platform
+- Designed RESTful APIs for insurance quotation and policy management systems
+- Implemented microservices architecture for scalable healthcare solutions
+- Built full-stack applications handling complex insurance calculations and workflows
+- Optimized database performance and API response times for critical healthcare operations
+
+*Technologies: .NET 8, C#, ASP.NET Core, SQL Server, Microservicios, PHP*
+
+### Node.js Mid. Full Stack & AWS Mid. Backend Developer
+**People Connection Technology | Costa Rica**  
+*Jul 2022 - Dec 2023*
+
+SaaS application on AWS with TypeScript, Redis, and Stripe API. Predictive analytics dashboards with Google Analytics API. Java microservices in Docker.
+- Developed enterprise SaaS platform with payment processing and analytics
+- Implemented predictive analytics dashboards using Google Analytics data
+- Built microservices architecture with Docker containerization and Kubernetes orchestration
+- Integrated Stripe API for secure payment processing and subscription management
+- Created real-time data processing pipelines with Redis caching
+
+*Technologies: Node.js, TypeScript, AWS, React, Redux, Docker, Kubernetes*
+
+### Microsoft ETL Data Engineer & Data Analyst
+**Grupo823 | Costa Rica**  
+*Feb 2022 - Jun 2022*
+
+Design and implementation of 37 advanced ETL pipelines using SSIS and C#. Database performance optimization with complex transactions and stored procedures.
+- Designed and implemented 37 complex ETL pipelines for enterprise data integration
+- Optimized database performance with advanced stored procedures and transaction management
+- Built data transformation workflows handling large-scale business data
+- Developed automated data quality checks and error handling mechanisms
+- Created reporting systems for business intelligence and decision-making
+
+*Technologies: SQL Server, SSIS, C#, PowerShell, ETL*
 
 <details>
 <summary>Technical Skills & Stack</summary>
