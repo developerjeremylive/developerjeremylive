@@ -16,6 +16,27 @@
 
 > Creative developer and AI innovator specializing in **Generative AI applications, multi-agent systems, and immersive 3D experiences**. Transforming creative coding into intelligent systems with over 300+ ML models and 6+ GenAI apps.
 
+## Professional Summary
+
+As a **Computer Engineer** with **8+ years of experience**, I have successfully delivered **50+ projects** across diverse industries including **fintech**, **enterprise logistics**, **business data analytics**, **AI solutions**, **healthcare**, and **cross-platform applications**. My expertise spans the full software development lifecycle, from architecting scalable systems to implementing cutting-edge AI integrations. I excel in transforming complex business requirements into efficient, innovative solutions that drive measurable impact.
+
+<div align="center">
+  <div style="background: linear-gradient(45deg, #4A90E2, #50C878); padding: 15px; border-radius: 15px; color: white; font-weight: bold; font-size: 18px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); animation: fadeIn 2s ease-in-out;">
+    <span style="animation: slideRight 8s infinite linear;">🚀 Fintech | 📦 Enterprise Logistics | 📊 Business Data Analytics | 🤖 AI Solutions | 🏥 Healthcare | 📱 Cross-Platform Applications 🚀</span>
+  </div>
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes slideRight {
+      0% { transform: translateX(-100%); }
+      50% { transform: translateX(0%); }
+      100% { transform: translateX(100%); }
+    }
+  </style>
+</div>
+
 ## AI-Powered Creative Workflow
 
 I blend creativity with AI to build next-generation digital experiences. My approach focuses on agentic systems, multimodal AI, and scalable architectures for creative applications.
@@ -137,6 +158,10 @@ Design and implementation of 37 advanced ETL pipelines using SSIS and C#. Databa
 **Scalable Systems:** Building for performance and user experience at scale
 
 </details>
+
+## Academic Background
+
+Since **2015**, I have been actively programming and developing software solutions. I hold a **Bachelor's degree in Computer Engineering** from the **Instituto Tecnológico de Costa Rica (TEC)**, obtained in **September 2022**. My academic foundation includes participation in competitive programming (ICPC 2015-2017) and digital literacy initiatives (PANTEC 2017-2019), where I contributed to technological inclusion in underserved communities.
 
 ---
 
