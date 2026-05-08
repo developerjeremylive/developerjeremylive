@@ -54,6 +54,22 @@ I blend creativity with AI to build next-generation digital experiences. My appr
 - **[AI Agent Chat](https://agent.etheroi.com)** — Conversational AI assistant with autonomous agent capabilities, supporting multiple AI models for intelligent interactions.
 - **[Live AI Translate](https://liveaitranslate.etheroi.com/)** — Real-time translation studio with high-fidelity voice support powered by Cloudflare Workers AI.
 
+<div align="center">
+  <div style="background: linear-gradient(135deg, #0a0a0a, #1a1a2e); padding: 20px; border-radius: 20px; color: #00d4ff; font-weight: bold; font-size: 16px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5), inset 0 0 20px rgba(0, 212, 255, 0.1); border: 2px solid #00d4ff; animation: glow 2s ease-in-out infinite alternate;">
+    <span style="animation: neon 3s infinite;">⚡ Top Technologies: Cloudflare Workers | React | Gemini AI | LangChain | Durable Objects | Real-time WebSocket ⚡</span>
+  </div>
+  <style>
+    @keyframes glow {
+      from { box-shadow: 0 0 20px rgba(0, 212, 255, 0.5), inset 0 0 20px rgba(0, 212, 255, 0.1); }
+      to { box-shadow: 0 0 30px rgba(0, 212, 255, 0.8), inset 0 0 30px rgba(0, 212, 255, 0.2); }
+    }
+    @keyframes neon {
+      0%, 100% { text-shadow: 0 0 5px #00d4ff, 0 0 10px #00d4ff, 0 0 15px #00d4ff; }
+      50% { text-shadow: 0 0 10px #00d4ff, 0 0 20px #00d4ff, 0 0 30px #00d4ff; }
+    }
+  </style>
+</div>
+
 ## Professional Career
 
 ### Python GenAI Software Engineer & Deep Agents Integration
@@ -178,6 +194,28 @@ Since **2015**, I have been actively programming and developing software solutio
 [![Website](https://img.shields.io/badge/Website-jeremylive.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://jeremylive.netlify.app)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-developerjeremylive-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/developerjeremylive)
 [![Beacons](https://img.shields.io/badge/Social-beacons.ai/jeremylive-FF6B6B?style=flat-square&logo=linktree&logoColor=white)](https://beacons.ai/jeremylive)
+
+<div align="center">
+  <a href="https://etheroi.com" style="text-decoration: none;">
+    <div style="background: radial-gradient(circle, #ff6b6b, #4ecdc4); padding: 25px; border-radius: 50px; color: white; font-weight: bold; font-size: 20px; box-shadow: 0 0 30px rgba(255, 107, 107, 0.6), inset 0 0 30px rgba(78, 205, 196, 0.3); border: 3px solid #fff; animation: bounce 3s infinite; transform: perspective(500px) rotateX(15deg); margin: 20px 0;">
+      <span style="animation: rainbow 4s infinite;">🚀 Explore My Main AI Project: Etheroi 🚀</span>
+    </div>
+  </a>
+  <style>
+    @keyframes bounce {
+      0%, 20%, 50%, 80%, 100% { transform: perspective(500px) rotateX(15deg) translateY(0); }
+      40% { transform: perspective(500px) rotateX(15deg) translateY(-10px); }
+      60% { transform: perspective(500px) rotateX(15deg) translateY(-5px); }
+    }
+    @keyframes rainbow {
+      0% { color: #ff6b6b; }
+      25% { color: #4ecdc4; }
+      50% { color: #45b7d1; }
+      75% { color: #f9ca24; }
+      100% { color: #ff6b6b; }
+    }
+  </style>
+</div>
 
 <details>
 <summary>Creative Facts</summary>
