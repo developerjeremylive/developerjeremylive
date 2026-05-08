@@ -21,7 +21,7 @@
 As a **Computer Engineer** with **8+ years of experience**, I have successfully delivered **50+ projects** across diverse industries including **fintech**, **enterprise logistics**, **business data analytics**, **AI solutions**, **healthcare**, and **cross-platform applications**. My expertise spans the full software development lifecycle, from architecting scalable systems to implementing cutting-edge AI integrations. I excel in transforming complex business requirements into efficient, innovative solutions that drive measurable impact.
 
 <p align="center">
-  <strong>🚀 Expertise Areas 🚀</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=4A90E2&center=true&vCenter=true&width=300&lines=🚀+Expertise+Areas+🚀" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Fintech+|+Enterprise+Logistics;Business+Data+Analytics+|+AI+Solutions;Healthcare+|+Cross-Platform+Applications" alt="Typing SVG" />
@@ -45,7 +45,7 @@ I blend creativity with AI to build next-generation digital experiences. My appr
 - **[Live AI Translate](https://liveaitranslate.etheroi.com/)** — Real-time translation studio with high-fidelity voice support powered by Cloudflare Workers AI.
 
 <p align="center">
-  <strong>⚡ Top Technologies ⚡</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00d4ff&center=true&vCenter=true&width=300&lines=⚡+Top+Technologies+⚡" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=500&lines=Cloudflare+Workers+|+React+|+Gemini+AI;LangChain+|+Durable+Objects+|+Real-time+WebSocket" alt="Typing SVG" />
@@ -179,7 +179,7 @@ Since **2015**, I have been actively programming and developing software solutio
 [![Etheroi](https://img.shields.io/badge/Etheroi-etheroi.com-6B73FF?style=flat-square&logo=robot&logoColor=white)](https://etheroi.com)
 
 <p align="center">
-  <strong>🚀 My Main AI Project 🚀</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=f9ca24&center=true&vCenter=true&width=300&lines=🚀+My+Main+AI+Project+🚀" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://etheroi.com">
