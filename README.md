@@ -219,20 +219,14 @@ Since **2015**, I have been actively programming and developing software solutio
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
-</p>
-
----
-
 ## ⚙️ Tech Stack not all that I know but a bit of it
 
 ### 🧩 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,go,c,zig,java,js,ts,html,python" />
+  <img src="https://skillicons.dev/icons?i=rust,go,c,java,js,ts,html,css,python,haskell,prolog" />
 </p>
 
 ### 🏗 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,git,github,gitlab,linux,flutter,.net" />
+  <img src="https://skillicons.dev/icons?i=react,git,github,gitlab,linux,flutter,ionic,reactnative" />
 </p>
