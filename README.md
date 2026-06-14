@@ -201,12 +201,12 @@ Since **2015**, I have been actively programming and developing software solutio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kiirecodes&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiirecodes&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=developerjeremylive&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerjeremylive&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kiirecodes&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=developerjeremylive&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -214,7 +214,7 @@ Since **2015**, I have been actively programming and developing software solutio
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiirecodes&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerjeremylive&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -225,14 +225,14 @@ Since **2015**, I have been actively programming and developing software solutio
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack not all that I know but a bit of it
 
 ### 🧩 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,go,c,zig,java,js,ts,html,css,c++,c#,python,dart" />
+  <img src="https://skillicons.dev/icons?i=rust,go,c,zig,java,js,ts,html,python" />
 </p>
 
 ### 🏗 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,git,github,gitlab,linux,flutter,.net," />
+  <img src="https://skillicons.dev/icons?i=react,git,github,gitlab,linux,flutter,.net" />
 </p>
