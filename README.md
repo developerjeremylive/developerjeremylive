@@ -195,4 +195,44 @@ Since **2015**, I have been actively programming and developing software solutio
 - Pushing the boundaries of interactive experiences
 
 </details></content>
-<parameter name="filePath">J:\AI_Products\developerjeremylive\README.md
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kiirecodes&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiirecodes&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kiirecodes&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiirecodes&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧩 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,go,c,zig,java,js,ts,html,css,c++,c#,python,dart" />
+</p>
+
+### 🏗 Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,git,github,gitlab,linux,flutter,.net," />
+</p>
