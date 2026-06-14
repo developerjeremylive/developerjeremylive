@@ -223,10 +223,10 @@ Since **2015**, I have been actively programming and developing software solutio
 
 ### 🧩 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,go,c,java,js,ts,html,css,python,haskell,prolog" />
+  <img src="https://skillicons.dev/icons?i=rust,go,c,java,js,ts,html,css,python,haskell" />
 </p>
 
 ### 🏗 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,git,github,gitlab,linux,flutter,ionic,reactnative" />
+  <img src="https://skillicons.dev/icons?i=react,git,github,gitlab,linux,flutter" />
 </p>
